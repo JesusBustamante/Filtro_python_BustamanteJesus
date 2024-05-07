@@ -1,0 +1,40 @@
+[
+    {
+        "servicio": "Internet Fibra Optica",
+        "informacion": {
+            "caracteristicas": "Internet alta velocidad de 1 GB por segundo",
+            "precio": 100.0,
+            "oferta": "Si compras 3 meses el precio se reduce a la mitad"
+        },
+        "usuarios": {}
+    },
+    {
+        "servicio": "Planes Pospago",
+        "informacion": {
+            "caracteristicas": "Planes Pospago con internet de alta calidad a muy bajos precios",
+            "precio": {
+                "20_GB_Mensual": 16.0,
+                "50_GB_Mensual": 25.0
+            }
+        },
+        "usuarios": {}
+    },
+    {
+        "servicio": "Planes Prepago",
+        "informacion": {
+            "caracteristicas": "Planes Prepago con internet de alta calidad a muy bajos precios",
+            "precio": {
+                "7_dias": 7.0,
+                "15_dias": 9.5
+            }
+        },
+        "usuarios": {}
+    },
+    {
+        "identificacion": 12345,
+        "nombre": "htt",
+        "direccion": "gsd",
+        "contacto": "dh",
+        "servicio": "Prepago"
+    }
+]

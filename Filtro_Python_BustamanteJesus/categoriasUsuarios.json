@@ -1,0 +1,20 @@
+[
+    {
+        "categoria": "Nuevos Clientes",
+        "clientes": [
+
+        ]
+    },
+    {
+        "categoria": "Nuevos Regulares",
+        "clientes": [
+            
+        ]
+    },
+    {
+        "categoria": "Clientes Leales",
+        "clientes": [
+            
+        ]
+    }
+]

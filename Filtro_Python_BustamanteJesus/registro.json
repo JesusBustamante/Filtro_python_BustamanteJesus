@@ -1,0 +1,32 @@
+[
+    {
+        "identificacion": 21314,
+        "nombre": "sfgoi",
+        "direccion": "sfgdgr",
+        "contacto": "rsdtdgg",
+        "servicio": [
+            "Fibra Optica"
+        ]
+    },
+    {
+        "identificacion": 12345,
+        "nombre": "Jesus Bustamante",
+        "direccion": "cll 14",
+        "contacto": "jesus@gmail.com",
+        "servicio": "Prepago"
+    },
+    {
+        "identificacion": 56875,
+        "nombre": "Luis Carlos",
+        "direccion": "cll 11",
+        "contacto": "luis@gmail.com",
+        "servicio": "Fibra Optica"
+    },
+    {
+        "identificacion": 79686,
+        "nombre": "Maria del Carmen",
+        "direccion": "cll 4",
+        "contacto": "maria@gmail.com",
+        "servicio": "Pospago"
+    }
+]
